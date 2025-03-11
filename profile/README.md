@@ -1,7 +1,11 @@
-# Master's thesis group cs-25-ds-10-14 | Development of a Proactive Autoscaler
-Project developed as MSc Software students of [Aalborg University](https://en.aau.dk)
+# Master's thesis group cs-25-ds-10-14
+<a href="https://en.aau.dk">
+    <img src=https://github.com/user-attachments/assets/57795100-779c-4339-b408-34a229433c47 width=200>
+</a>
 
-![__AAU_LEFT_RGB_UK](https://github.com/user-attachments/assets/57795100-779c-4339-b408-34a229433c47)
+### TENTATIVE TITLE: Development of a Proactive Autoscaler
+
+Project developed as MSc Software students of Aalborg University
 
 
 ## Architectural overview
