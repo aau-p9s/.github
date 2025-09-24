@@ -20,4 +20,4 @@ The architecture of this project is shown below:
 | Workload API and generator   | https://github.com/aau-p9s/Workload         |
 | Kubernetes setup via ansible | https://github.com/aau-p9s/kubernetes-setup |
 
-Link to download the thesis can be found here: [https://kbdk-aub.primo.exlibrisgroup.com/discovery/fulldisplay/alma9922100524105762/45KBDK_AUB:AUB](https://kbdk-aub.primo.exlibrisgroup.com/permalink/45KBDK_AUB/qppofn/alma9922100524105762)
+The master thesis can be found here: [https://kbdk-aub.primo.exlibrisgroup.com/discovery/fulldisplay/alma9922100524105762/45KBDK_AUB:AUB](https://kbdk-aub.primo.exlibrisgroup.com/permalink/45KBDK_AUB/qppofn/alma9922100524105762)
